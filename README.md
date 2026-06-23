@@ -33,7 +33,9 @@ Built with a modular OOP structure — Students, Admins, and Events
 are independent classes. Data flows through a controller layer 
 keeping UI and logic separated.
 
-![User flow diagram](./assets/user flows.png)
+<div align="center">
+<img src="assets/user flows.png" width="700" alt="User flows diagram"/>
+</div>
 
 ## run locally
 ```bash
